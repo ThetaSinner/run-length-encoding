@@ -5,11 +5,11 @@ Run length encoding (RLE) is a simple compression algorithm for lossless compres
 
 ### Worked example
 
-Given the image data representing Red (r), Green (g) and Blue (b) pixels
+Given example image data representing Red (r), Green (g) and Blue (b) pixels
 
 > rrrbbggggggbrrrrrr
 
-Te sequences of repeated characters can be represented by a single character and a count so that this data becomes
+The sequences of repeated characters can be represented by a single character and a count so that this data becomes
 
 > 3r2b6g1b5r
 
