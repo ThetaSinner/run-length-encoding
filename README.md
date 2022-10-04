@@ -11,7 +11,7 @@ Given example image data representing Red (r), Green (g) and Blue (b) pixels
 
 The sequences of repeated characters can be represented by a single character and a count so that this data becomes
 
-> 3r2b6g1b5r
+> 3r2b6g1b6r
 
 18 pieces of information has become 10. This is a compression ratio of 9:5, or 1.8.
 
